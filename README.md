@@ -1,2 +1,2 @@
 # All-Linked-List-codes
-Hope u will find your solutions here with better readability of codes.
+Hope you will find your solutions here with better readability of codes.
